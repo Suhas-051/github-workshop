@@ -23,6 +23,17 @@ You choose who can see and commit to this repository.
  1.   ist veg
  2.   
 [https://youtube.com/hcshb]
+
 ![https://static.india.com/wp-content/uploads/2021/07/Virat-Kohli-TOI.jpg]
 
+s.no|name
+----|----
+1|paris
+2|france
+3|los
+
+:smiley:
+🤠
+
+ ![https://c.tenor.com/y_fxz14VsCwAAAAC/adhurs-brahmanandam.gif]
 
