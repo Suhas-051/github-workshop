@@ -1,4 +1,4 @@
-# github-workshop
+~# github-workshop
 Private
 You choose who can see and commit to this repository. 
 # heading 1
@@ -14,3 +14,14 @@ You choose who can see and commit to this repository.
 
 ***bold and italic font***
 ~~statement~~
+* friut
+* guava
+* apples
+* mangoes
+* oranges
+* banana 
+ 1.   ist veg
+ 2.   
+[gitsem.com]
+
+
